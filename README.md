@@ -1,2 +1,2 @@
 # Kaggle-titanic-solution
-First attemp to titanic solution for Kaggle problem
+First attempt to titanic solution for Kaggle problem
